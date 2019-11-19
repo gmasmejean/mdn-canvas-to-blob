@@ -1,6 +1,6 @@
 {
   "name": "mdn-canvas-to-blob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A polyfill for canvas toBlob function.",
   "main": "polyfill.js",
   "scripts": {
